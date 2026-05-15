@@ -1,7 +1,6 @@
 import discord
 from discord import app_commands
 import os
-import requests
 import aiohttp
 import asyncio
 import json
